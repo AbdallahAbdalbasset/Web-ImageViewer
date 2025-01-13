@@ -13,3 +13,5 @@ Changes the image every one second.
 
 ## Stop Button:
 Stops changing the image every one second.
+
+this line added locally
